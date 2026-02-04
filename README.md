@@ -1,0 +1,1 @@
+PCA formative (Advanced Linear Algebra) on Africanized Upper Secondary / out-of-school data. Uses numeric columns only, mean imputation for missing values. Data: Upper Secondary.csv from Kaggle. Run the notebook in Jupyter with the CSV in the same folder. pip install pandas numpy matplotlib jupyter
